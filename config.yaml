@@ -3,15 +3,15 @@
 
 baseURL: "/"
 languageCode: "en-us"
-title: "Author Site"
-theme: "inkwell"
+title: "Anil Yadav"
+theme: "paperback"
 
 disableKinds:
   - taxonomy
   - term
 
 params:
-  description: "Author website built with AuthorPage"
+  description: "Author website built for Anil Yadav"
 
 menu:
   main:
