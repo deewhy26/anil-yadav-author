@@ -4,11 +4,31 @@
 # To add a new book, copy everything from the dash (-) to the next dash
 # and fill in your book's details. Newest books should go at the top.
 
-- title: "The Midnight Garden"
-  cover: "images/midnight-garden.jpg"
-  tagline: "A novel about memory and forgetting"
-  description: "When Clara returns to her grandmother's house after twenty years, she discovers a garden that blooms only at night — and a family secret buried beneath its roots."
-  published: 2024
+- title: "The Safety-Pin Leadership"
+  cover: "images/The Safety-Pin Leadership_PB eBook Front Cover.jpg"
+  tagline: "What holds an organisation together when pressure rises?"
+  description: |
+  Organisations rarely fail because they grow. More often, they outgrow their capacity to hold.
+
+  The first signs of strain rarely appear on a balance sheet. They appear in people: in trust that weakens, judgement that narrows, teams that stop speaking up, priorities that fragment, and connections that quietly begin to come apart.
+  
+  And this is where the unsung heroes of leadership often emerge.
+  
+  They absorb pressure so others can think clearly.
+  They protect trust when blame would be easier.
+  They keep people connected when circumstances pull them apart.
+  They notice the small fracture before it becomes a break.
+  
+  The Safety-Pin Leadership offers a different way to understand leadership: not simply as the ability to move an organisation forward, but as the ability to hold what matters together while everything around it is changing.
+  
+  Using the metaphor of a safety pin, Anil Yadav introduces the H.O.L.D. framework: practical capacities that help leaders absorb pressure without fracture, sustain trust, strengthen judgement, preserve alignment and create the conditions for responsible growth.
+  
+  For board members, directors, CXOs, senior executives, business leaders, aspiring directors and anyone who has quietly held a team together: this book offers a fresh perspective on organisational resilience, governance, decision-making, trust and sustainable growth.
+  
+  Because the most important leadership is sometimes the leadership nobody sees.
+  
+  Before an organisation can move forward with confidence, it needs the capacity to hold people, systems and purpose together.
+  
   buy_links:
     - label: "Amazon"
       url: "https://amazon.com/dp/your-book-id"
@@ -18,14 +38,4 @@
       url: "https://barnesandnoble.com/w/your-book-id"
   featured: true
 
-- title: "Letters from the Peninsula"
-  cover: "images/letters-peninsula.jpg"
-  tagline: "A story of distance and devotion"
-  description: "An epistolary novel spanning three decades of correspondence between two friends separated by an ocean."
-  published: 2021
-  buy_links:
-    - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
-  featured: false
+
