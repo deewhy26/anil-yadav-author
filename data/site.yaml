@@ -8,33 +8,32 @@ name: "Anil Yadav"
 tagline: "Leadership Writer | ESG Thinker | Former Senior Corporate Professional | Life Member, Institute of Directors (IOD), India"
 
 # Your author bio — shown on the About page
-bio: """
-Anil Yadav is a former senior corporate professional, leadership writer and ESG thinker whose work explores the intersection of **leadership, governance, sustainability and organisational resilience**.
+bio: |
+  Anil Yadav is a former senior corporate professional, leadership writer and ESG thinker whose work explores the intersection of **leadership, governance, sustainability and organisational resilience**.
 
-With more than three decades of experience in the specialty chemicals industry, Anil has worked close to the realities of complex organisations, where decisions carry consequences, change creates pressure, and people and systems are constantly tested.
+  With more than three decades of experience in the specialty chemicals industry, Anil has worked close to the realities of complex organisations, where decisions carry consequences, change creates pressure, and people and systems are constantly tested.
 
-His thinking is grounded in a simple observation:
+  His thinking is grounded in a simple observation:
 
-**Organisations rarely struggle because they lack ambition or strategy. They struggle when their capacity to hold people, trust, systems and purpose comes under pressure.**
+  **Organisations rarely struggle because they lack ambition or strategy. They struggle when their capacity to hold people, trust, systems and purpose comes under pressure.**
 
-His writing extends beyond the boardroom. Through articles, essays and regular LinkedIn reflections, Anil explores the questions of leadership, sustainability, governance and organisational resilience that shape organisations in a changing world.
+  His writing extends beyond the boardroom. Through articles, essays and regular LinkedIn reflections, Anil explores the questions of leadership, sustainability, governance and organisational resilience that shape organisations in a changing world.
 
-His first book, _The Safety-Pin Leadership_, brings these ideas together through a simple proposition:
+  His first book, _The Safety-Pin Leadership_, brings these ideas together through a simple proposition:
 
-> **Leadership is not only about moving forward. It is also about knowing what to hold together before you move.**
-"""
+  > **Leadership is not only about moving forward. It is also about knowing what to hold together before you move.**
 
 # Path to your author photo (upload the image to static/images/)
 photo: "images/author.jpg"
 
 # Your social media links (delete any you don't use)
 social:
-  twitter: "https://twitter.com/janeauthor"
-  instagram: "https://instagram.com/janeauthor"
-  goodreads: "https://goodreads.com/janeauthor"
+  linkedin: "www.linkedin.com/in/anilyadav-esg"
+  # instagram: "https://instagram.com/janeauthor"
+  # goodreads: "https://goodreads.com/janeauthor"
 
 # Email address shown on the Contact page
-contact_email: "jane@example.com"
+contact_email: "anil@anilyadavauthor.com"
 
 # Newsletter signup form — appears in the footer and contact page of every theme.
 #
