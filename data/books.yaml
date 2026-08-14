@@ -31,7 +31,7 @@
   
   buy_links:
     - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
+      url: "https://www.amazon.in/dp/B0HF41BBNY"
     # - label: "Bookshop.org"
     #   url: "https://bookshop.org/p/books/your-book-id"
     # - label: "Barnes & Noble"
