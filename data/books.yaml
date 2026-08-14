@@ -32,10 +32,10 @@
   buy_links:
     - label: "Amazon"
       url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
-    - label: "Barnes & Noble"
-      url: "https://barnesandnoble.com/w/your-book-id"
+    # - label: "Bookshop.org"
+    #   url: "https://bookshop.org/p/books/your-book-id"
+    # - label: "Barnes & Noble"
+    #   url: "https://barnesandnoble.com/w/your-book-id"
   featured: true
 
 
