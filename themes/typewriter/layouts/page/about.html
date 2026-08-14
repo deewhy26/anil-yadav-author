@@ -24,9 +24,9 @@
 
       <div class="venetian-divider" aria-hidden="true"></div>
 
-      {{/* Bio */}}
+      {{/* Bio (render data/site.bio as Markdown) */}}
       {{ with .bio }}
-      <div class="about__bio page-content__body">
+      <div class="about__bio fade-in-delayed page-content__body">
         {{ . | markdownify }}
       </div>
       {{ end }}
