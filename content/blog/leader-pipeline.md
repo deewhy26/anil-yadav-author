@@ -1,6 +1,6 @@
 ---
 title: "ESG Leadership Pipeline: Nutrition or Pain Killer?"
-date: 2025-11-18
+date: 2025-07-28
 description: "Building a strong ESG leadership pipeline is vital for long-term corporate resilience and sustainability"
 ---
 
