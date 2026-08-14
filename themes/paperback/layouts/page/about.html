@@ -22,10 +22,10 @@
           <h1 class="about__name">{{ . }}</h1>
           {{ end }}
 
-          {{/* Bio */}}
+          {{/* Bio (render data/site.bio as Markdown) */}}
           {{ with .bio }}
-          <div class="about__bio">
-            <p>{{ . }}</p>
+          <div class="about__bio fade-in-delayed page-content__body">
+            {{ . | markdownify }}
           </div>
           {{ end }}
 
