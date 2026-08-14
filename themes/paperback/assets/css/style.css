@@ -768,7 +768,7 @@ hr {
 
 .about__photo-wrapper {
   width: 220px;
-  height: 220px;
+  height: 260px;
   flex-shrink: 0;
   border-radius: var(--radius-lg);
   overflow: hidden;
