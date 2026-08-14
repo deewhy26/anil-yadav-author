@@ -26,8 +26,8 @@
 
       {{/* Bio */}}
       {{ with .bio }}
-      <div class="about__bio">
-        <p>{{ . }}</p>
+      <div class="about__bio page-content__body">
+        {{ . | markdownify }}
       </div>
       {{ end }}
 
